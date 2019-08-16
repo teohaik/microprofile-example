@@ -1,6 +1,0 @@
-com\airhacks\ping\boundary\PingResource.class
-com\airhacks\JAXRSConfiguration.class
-com\airhacks\ping\boundary\Student.class
-com\airhacks\ping\boundary\Teacher.class
-com\airhacks\ping\boundary\Grade.class
-com\airhacks\ping\boundary\Lesson.class
